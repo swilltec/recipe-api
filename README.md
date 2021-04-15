@@ -66,3 +66,13 @@ Features:
 ## Getting Started
 
 Every great project has a beginning, Follow the step below to create your recipe instance otherwise click [Get started with docker](https://www.docker.com/get-started) to install docker. Navigate to the directory you would link to run the app and follow the steps below: 
+
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/swilltec/recipe-api
+   ```
+2. Enter the command below to start docker
+  ```sh
+  docker-compose up
+  ```
